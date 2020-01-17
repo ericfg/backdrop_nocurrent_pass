@@ -1,0 +1,6 @@
+type = module
+name = No Current Password
+description = Make the "current password" requirement on the user edit form optional.
+package = User Interface
+version = "7.x-1.1"
+backdrop = 1.x
